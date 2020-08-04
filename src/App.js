@@ -69,7 +69,7 @@ export default class App extends React.Component {
               src="littlepiggy.png"
               alt="A piglet from the front"
             />
-            <h1 className="header-h1">The Pig Latin Translator!</h1>
+            <h1 className="header-h1">Pig Latin Translator</h1>
           </header>
           <div className="instructionSection" />
           <div className="form">
