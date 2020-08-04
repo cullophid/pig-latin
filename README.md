@@ -1,2 +1,3 @@
 # pig-latin
-Created with CodeSandbox
+
+Pig latin translator
